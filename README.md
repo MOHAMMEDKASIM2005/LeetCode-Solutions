@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1044-longest-duplicate-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Dynamic Programming
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Array
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Quickselect
 |  |
 | ------- |
@@ -358,12 +362,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Manacher
 |  |
 | ------- |
