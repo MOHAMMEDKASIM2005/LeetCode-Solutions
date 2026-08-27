@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0162-find-peak-element) |
