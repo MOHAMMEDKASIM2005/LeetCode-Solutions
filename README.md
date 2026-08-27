@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0969-pancake-sorting](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -142,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Binary Indexed Tree
 |  |
@@ -179,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
