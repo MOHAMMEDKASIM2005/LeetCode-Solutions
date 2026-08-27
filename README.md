@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
