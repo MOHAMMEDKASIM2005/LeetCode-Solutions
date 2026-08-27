@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
