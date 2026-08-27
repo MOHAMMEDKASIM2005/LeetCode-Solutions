@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1408-string-matching-in-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0969-pancake-sorting](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
