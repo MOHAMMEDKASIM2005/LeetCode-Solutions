@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
