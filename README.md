@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
