@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
@@ -308,12 +310,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 ## Quickselect
 |  |
 | ------- |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0686-repeated-string-match](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 ## Linked List
 |  |
 | ------- |
