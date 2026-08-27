@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
