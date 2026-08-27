@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
