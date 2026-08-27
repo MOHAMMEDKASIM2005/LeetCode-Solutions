@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
