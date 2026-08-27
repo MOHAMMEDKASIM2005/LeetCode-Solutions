@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -152,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Binary Indexed Tree
