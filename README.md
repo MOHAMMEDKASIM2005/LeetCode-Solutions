@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -383,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
