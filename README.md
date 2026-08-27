@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
