@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
