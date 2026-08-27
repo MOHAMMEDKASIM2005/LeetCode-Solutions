@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
