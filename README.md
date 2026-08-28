@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0806-number-of-lines-to-write-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0912-sort-an-array) |
