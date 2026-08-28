@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1051-height-checker](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0980-unique-paths-iii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Pigeonhole Principle
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0980-unique-paths-iii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
@@ -502,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
