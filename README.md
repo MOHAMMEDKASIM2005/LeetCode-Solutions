@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0046-permutations) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0051-n-queens) |
