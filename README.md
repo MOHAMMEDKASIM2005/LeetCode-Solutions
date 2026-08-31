@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
@@ -588,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
