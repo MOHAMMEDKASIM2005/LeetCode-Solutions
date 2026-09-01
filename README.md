@@ -615,12 +615,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -633,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
