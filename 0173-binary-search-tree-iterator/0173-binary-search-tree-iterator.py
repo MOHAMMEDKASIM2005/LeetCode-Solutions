@@ -1,23 +1,21 @@
 class BSTIterator:
 
-    def __init__(self, root: TreeNode):
+    def __init__(self, root):
         self.stack = []
-        self._push_left(root)
+        self.push_left(root)
 
-    def _push_left(self, node):
+    def push_left(self, node):
         while node:
             self.stack.append(node)
             node = node.left
 
-    def next(self) -> int:
-        # The top of the stack is the next smallest element
+    def next(self):
         node = self.stack.pop()
 
-        # After visiting this node, process its right subtree
         if node.right:
-            self._push_left(node.right)
+            self.push_left(node.right)
 
         return node.val
 
-    def hasNext(self) -> bool:
+    def hasNext(self):
         return len(self.stack) > 0
