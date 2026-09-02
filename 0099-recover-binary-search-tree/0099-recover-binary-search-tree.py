@@ -1,42 +1,28 @@
-class Solution:
+class Solution(object):
     def recoverTree(self, root):
-        first = second = prev = None
-        curr = root
 
-        while curr:
-            if curr.left is None:
-                # Visit curr
-                if prev and prev.val > curr.val:
-                    if first is None:
-                        first = prev
-                    second = curr
+        self.first = None
+        self.second = None
+        self.prev = None
 
-                prev = curr
-                curr = curr.right
+        def inorder(node):
 
-            else:
-                # Find inorder predecessor
-                pred = curr.left
+            if node is None:
+                return
 
-                while pred.right and pred.right != curr:
-                    pred = pred.right
+            inorder(node.left)
 
-                if pred.right is None:
-                    # Create temporary link
-                    pred.right = curr
-                    curr = curr.left
-                else:
-                    # Remove temporary link
-                    pred.right = None
+            if self.prev is not None and self.prev.val > node.val:
 
-                    # Visit curr
-                    if prev and prev.val > curr.val:
-                        if first is None:
-                            first = prev
-                        second = curr
+                if self.first is None:
+                    self.first = self.prev
 
-                    prev = curr
-                    curr = curr.right
+                self.second = node
 
-        # Swap the incorrect values
-        first.val, second.val = second.val, first.val
+            self.prev = node
+
+            inorder(node.right)
+
+        inorder(root)
+
+        self.first.val, self.second.val = self.second.val, self.first.val
