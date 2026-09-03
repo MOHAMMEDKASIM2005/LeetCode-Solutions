@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -577,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0980-unique-paths-iii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
