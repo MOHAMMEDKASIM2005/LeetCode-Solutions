@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
@@ -658,11 +660,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1584-min-cost-to-connect-all-points](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -825,4 +829,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
