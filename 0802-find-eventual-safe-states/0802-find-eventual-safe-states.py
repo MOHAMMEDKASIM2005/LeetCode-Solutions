@@ -1,36 +1,29 @@
-from collections import deque
-
 class Solution:
     def eventualSafeNodes(self, graph):
         n = len(graph)
+        safe = {}
 
-        # Reverse graph:
-        # rev[v] contains all nodes that point to v.
-        rev = [[] for _ in range(n)]
+        def dfs(i):
+            # Already visited
+            if i in safe:
+                return safe[i]
 
-        # out_degree[i] = number of outgoing edges from i
-        out_degree = [len(graph[i]) for i in range(n)]
+            # Assume unsafe first
+            safe[i] = False
 
-        for u in range(n):
-            for v in graph[u]:
-                rev[v].append(u)
+            # Check every neighbour
+            for nei in graph[i]:
+                if not dfs(nei):
+                    return safe[i]
 
-        # Terminal nodes have out_degree == 0
-        q = deque(i for i in range(n) if out_degree[i] == 0)
+            # All neighbours are safe
+            safe[i] = True
+            return safe[i]
 
-        safe = [False] * n
+        res = []
 
-        while q:
-            node = q.popleft()
-            safe[node] = True
+        for i in range(n):
+            if dfs(i):
+                res.append(i)
 
-            # Any predecessor loses one "unsafe" outgoing edge.
-            for prev in rev[node]:
-                out_degree[prev] -= 1
-
-                # All outgoing neighbors of prev are now safe.
-                if out_degree[prev] == 0:
-                    q.append(prev)
-
-        # Iterating in index order guarantees ascending order.
-        return [i for i in range(n) if safe[i]]
+        return res
