@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1584-min-cost-to-connect-all-points](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1584-min-cost-to-connect-all-points](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -784,4 +786,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
