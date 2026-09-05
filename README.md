@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 ## Rolling Hash
 |  |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
@@ -664,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
@@ -804,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -841,4 +848,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
