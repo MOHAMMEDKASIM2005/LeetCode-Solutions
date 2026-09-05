@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
