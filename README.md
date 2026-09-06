@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-last-stone-weight](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -944,4 +946,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
