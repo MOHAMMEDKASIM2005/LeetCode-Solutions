@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -912,4 +914,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
