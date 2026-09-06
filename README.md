@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -897,4 +900,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/MOHAMMEDKASIM2005/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
